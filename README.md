@@ -33,7 +33,7 @@
 ### 1. 🏦 Чат-бот для клиентских менеджеров банка
 
 <div align="center">
-<img src="https://drive.google.com/file/d/1CSC6T-I8hgWk-0knAvgOyUfrijj-MNVQ/view?usp=drive_link" alt="Chatbot Interface" width="600"/>
+  <img src="https://github.com/Julia-Lebedeva-ai/Julia-Lebedeva-ai/raw/main/ИИ-ассистент%20RAG.png" alt="ИИ-ассистент RAG" width="600"/>
 </div>
 
 **📋 Описание:** Чат-бот для клиентских менеджеров крупного банка по внутренней базе знаний по продуктам и процессам банка
