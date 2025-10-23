@@ -38,7 +38,7 @@
 ### 1. 🏦 Чат-бот для клиентских менеджеров банка
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Julia-Lebedeva-ai/Julia-Lebedeva-ai/main/images/rag.png" alt="ИИ-ассистент RAG" width="400"/>
+  <img src="https://raw.githubusercontent.com/Julia-Lebedeva-ai/Julia-Lebedeva-ai/main/images/rag_phone.jpg" alt="ИИ-ассистент RAG" width="400"/>
 </div>
 
 **📋 Описание:** Чат-бот для клиентских менеджеров крупного банка по внутренней базе знаний по продуктам и процессам банка
@@ -62,7 +62,7 @@
 ### 2. 📅 ИИ-ассистент для записи в календарь
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Julia-Lebedeva-ai/Julia-Lebedeva-ai/main/images/site_assist.png" alt="ИИ-ассистент для записи в календарь" width="300"/>
+<img src="https://raw.githubusercontent.com/Julia-Lebedeva-ai/Julia-Lebedeva-ai/main/images/web_site_bot.jpg" alt="ИИ-ассистент для записи в календарь" width="300"/>
 </div>
 
 **📋 Описание:** ИИ-ассистент для автоматизации записи в календарь через мессенджеры и сайты
@@ -88,7 +88,7 @@
 ### 3. 📊 ИИ-аналитик еженедельных отчетов
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Julia-Lebedeva-ai/Julia-Lebedeva-ai/main/images/analyst_bot.png" alt="ИИ-аналитик" width="400"/>
+<img src="https://raw.githubusercontent.com/Julia-Lebedeva-ai/Julia-Lebedeva-ai/main/images/analyst.jpg" alt="ИИ-аналитик" width="400"/>
 </div>
 
 **📋 Описание:** ИИ-аналитик, формирующий еженедельный отчет по продажам с автоматическими комментариями
