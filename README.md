@@ -1,10 +1,18 @@
-<div align="center">
 
-# 👋 Привет, меня зовут Юлия
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@JuliettaL)
-
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/Julia-Lebedeva-ai/Julia-Lebedeva-ai/main/images/Julia.png" alt="photo" width="200"/>
+    </td>
+    <td>
+      <h3>👋 Привет, меня зовут Юлия</h3>
+      <br>
+      <a href="https://t.me/@JuliettaL">
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
