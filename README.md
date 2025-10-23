@@ -33,7 +33,7 @@
 ### 1. 🏦 Чат-бот для клиентских менеджеров банка
 
 <div align="center">
-  <img src="https://private-user-images.githubusercontent.com/224646194/504618551-87ac6c29-ef2d-465b-896c-55da382400ed.png" alt="ИИ-ассистент RAG" width="600"/>
+  <img src="https://private-user-images.githubusercontent.com/224646194/504618551-87ac6c29-ef2d-465b-896c-55da382400ed.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjEyMDkwNzEsIm5iZiI6MTc2MTIwODc3MSwicGF0aCI6Ii8yMjQ2NDYxOTQvNTA0NjE4NTUxLTg3YWM2YzI5LWVmMmQtNDY1Yi04OTZjLTU1ZGEzODI0MDBlZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAyM1QwODM5MzFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lNWVlZjAwNWVkN2EwNDk5OWViZDZmNDI4ZDdiYzZjY2RiNGNmYTk5OTczOTY0ZWI4YzBiNzM2MTdhNGYzMTNmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.-AvsR47f-RjS0-vzijTT4ycaY39cxd561_NFE06u_Ko" alt="ИИ-ассистент RAG" width="400"/>
 </div>
 
 **📋 Описание:** Чат-бот для клиентских менеджеров крупного банка по внутренней базе знаний по продуктам и процессам банка
@@ -57,7 +57,7 @@
 ### 2. 📅 ИИ-ассистент для записи в календарь
 
 <div align="center">
-<img src="https://drive.google.com/file/d/1HNdL7vXr7wy3MQREuLQGgqWghvUw2njH/view?usp=sharing" alt="Calendar Assistant" width="600"/>
+<img src="https://private-user-images.githubusercontent.com/224646194/504618552-6ed3b716-90d2-4d97-8284-37c8e662fb07.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjEyMDkzMTgsIm5iZiI6MTc2MTIwOTAxOCwicGF0aCI6Ii8yMjQ2NDYxOTQvNTA0NjE4NTUyLTZlZDNiNzE2LTkwZDItNGQ5Ny04Mjg0LTM3YzhlNjYyZmIwNy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAyM1QwODQzMzhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zYjgzNmY0YTkzNzVhZDhiZmM4NDcwZTE3ZjA1ZTNiMjZmNWZhNjVmNTQ4MTU5ZjM3ZDAwNjNkYWI5MzM3OGEwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.oOPnG6bcZzNHJKCD49oVXzsxLTe25pLPd_E0RJCaBAw" width="300"/>
 </div>
 
 **📋 Описание:** ИИ-ассистент для автоматизации записи в календарь через мессенджеры и сайты
@@ -83,7 +83,7 @@
 ### 3. 📊 ИИ-аналитик еженедельных отчетов
 
 <div align="center">
-<img src="https://drive.google.com/file/d/1v_hAGrL9qUqaP8x1XwVEhxEc1QUy-GID/view?usp=sharing" alt="Analytics Reports" width="600"/>
+<img src="https://private-user-images.githubusercontent.com/224646194/504618549-10e4ba5f-0d1a-42c3-af78-2b3ff8a18b37.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjEyMDkzMTgsIm5iZiI6MTc2MTIwOTAxOCwicGF0aCI6Ii8yMjQ2NDYxOTQvNTA0NjE4NTQ5LTEwZTRiYTVmLTBkMWEtNDJjMy1hZjc4LTJiM2ZmOGExOGIzNy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAyM1QwODQzMzhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01N2U0MWM3YjRiNmQxODJkODg4MTA2ODNhMWM4NmMyZGQ0ODQzOWQ0Y2ZjZGZjNDkyMDU3OGUzZWQwZjJhMTBjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.ypl3umJdOcnsyFbS77kJMV3Y_cYaPKT19OI3q86_9_I" alt="Analytics Reports" width="400"/>
 </div>
 
 **📋 Описание:** ИИ-аналитик, формирующий еженедельный отчет по продажам с автоматическими комментариями
@@ -232,6 +232,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge&logo=robot&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-white?style=for-the-badge&logo=n8n&logoColor=FF6900&labelColor=white)
 
 ### 📊 Аналитика и визуализация
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
