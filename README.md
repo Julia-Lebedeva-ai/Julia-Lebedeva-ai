@@ -33,7 +33,7 @@
 ### 1. 🏦 Чат-бот для клиентских менеджеров банка
 
 <div align="center">
-  <img src="https://private-user-images.githubusercontent.com/224646194/504618551-87ac6c29-ef2d-465b-896c-55da382400ed.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjEyMDkwNzEsIm5iZiI6MTc2MTIwODc3MSwicGF0aCI6Ii8yMjQ2NDYxOTQvNTA0NjE4NTUxLTg3YWM2YzI5LWVmMmQtNDY1Yi04OTZjLTU1ZGEzODI0MDBlZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAyM1QwODM5MzFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lNWVlZjAwNWVkN2EwNDk5OWViZDZmNDI4ZDdiYzZjY2RiNGNmYTk5OTczOTY0ZWI4YzBiNzM2MTdhNGYzMTNmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.-AvsR47f-RjS0-vzijTT4ycaY39cxd561_NFE06u_Ko" alt="ИИ-ассистент RAG" width="400"/>
+  <img src="https://github.com/Julia-Lebedeva-ai/Julia-Lebedeva-ai/tree/main/images#:~:text=6%20minutes%20ago-,rag.png,-%D0%94%D0%BE%D0%B1%D0%B0%D0%B2%D0%B8%D0%BB%20%D0%BF%D1%83%D1%81%D1%82%D1%83%D1%8E%20%D0%BF%D0%B0%D0%BF%D0%BA%D1%83" alt="ИИ-ассистент RAG" width="400"/>
 </div>
 
 **📋 Описание:** Чат-бот для клиентских менеджеров крупного банка по внутренней базе знаний по продуктам и процессам банка
