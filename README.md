@@ -120,7 +120,7 @@
 **🌐 Демо:**
  Примеры результатов анализа звонков можно увидеть здесь:
 - **Google sheet:** https://docs.google.com/spreadsheets/d/1kZq1WglcBdvKdl2OVAdlLtq9zFMepgvJgaOTr6d051U/edit?usp=sharing
-- **CJM:**https://github.com/Julia-Lebedeva-ai/Julia-Lebedeva-ai/blob/main/images/aggregated_cjm.html
+- **CJM:** <a href="https://htmlpreview.github.io/?https://github.com/Julia-Lebedeva-ai/Julia-Lebedeva-ai/blob/main/images/aggregated_cjm.html" target="_blank">Открыть результат анализа (HTML)</a>
 
 ---
 
