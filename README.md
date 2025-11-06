@@ -81,7 +81,6 @@
 
 **🌐 Демо:**
 - **Telegram:** [@Assisent_calend_bot](https://t.me/Assisent_calend_bot)
-- **Сайт:** [project16279146.tilda.ws](https://project16279146.tilda.ws/)
 
 ---
 
